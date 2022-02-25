@@ -2,6 +2,7 @@
   "name": "hoxton-react-project",
   "version": "0.0.0",
   "scripts": {
+    "start": "npx json-server -w db.json",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
